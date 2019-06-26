@@ -1,0 +1,6 @@
+*.[co]
+ignoreFolder/
+*.txt
+*.out
+*.swp
+!README.txt
